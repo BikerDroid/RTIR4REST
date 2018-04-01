@@ -65,7 +65,7 @@ class RTIR4REST():
     Please see GitHub <https://github.com/BikerDroid/RTIR4REST> for further information.
     
     :copyright: BikerDroid (c) 2016-2018
-    :license: None 
+    :license: Apache License 2.0 
     :Reference: https://rt-wiki.bestpractical.com/wiki/REST
     """
 
